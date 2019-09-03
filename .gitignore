@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
+# Mac files
+.DS_Store
+
+# Created Output file
+Artists.js
