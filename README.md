@@ -2,7 +2,7 @@
 
 ## Instructions:
 
-Simply run `node artist-fetcher.js` on your terminal to retrieve all the artists featured on [DJ Bammer](https://djbammer.net)'s monthy mixes. You will need to have [Node.js](https://nodejs.org/en/) installed.
+Simply run `node artist-fetcher.js` on your terminal to retrieve all the artists featured on [DJ Bammer](https://djbammer.net)'s monthy mixes. You will need to run `npm install` first (and have [Node.js](https://nodejs.org/en/) installed).
 
 ## What does it do?
 
