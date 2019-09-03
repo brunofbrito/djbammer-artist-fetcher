@@ -9,6 +9,6 @@ Simply run `node artist-fetcher.js` on your terminal to retrieve all the artists
 This file uses the DJ Bammer WordPress API to fetch all mixes and then filters the artists. After all the data treatment, it outputs an `Artists.js` file listing all the unique music producers.
 
 ## Dependencies:
-fs
-html-entities
-node-fetch
+- fs
+- html-entities
+- node-fetch
